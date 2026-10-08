@@ -1,34 +1,25 @@
 # BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên:** 20123456
+- **Họ và tên:** Trần Thế Hào
+- **Mã số sinh viên:** 24810320120
 - **Lớp:** 20DTHxx
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** Bài 4 - Sơ đồ chọn vị trí / Đặt bàn hẹn giờ
+- **Tên bài tập:** Bài 2 - Form Tiếp nhận & Phân loại sự cố IT
 
 ---
 
 ## CHỨC NĂNG ĐÃ THỰC HIỆN
-- 20 Button (4 × 5) được sinh bằng vòng lặp for trong Form_Load, đặt vào TableLayoutPanel.
-- Dùng chung 1 hàm ViTri_Click cho cả 20 nút; cập nhật số lượng & tạm tính realtime.
-- Màu trạng thái: Trắng (trống), Xanh lá (đang chọn), Đỏ (đã đặt). Mỗi khung giờ có danh sách đã đặt riêng.
+- RadioButton (ưu tiên), ComboBox (loại sự cố), CheckBox (thiết bị), DateTimePicker.
+- Nút "Tải ảnh lỗi" mở OpenFileDialog (.jpg/.png), hiển thị lên PictureBox với SizeMode = StretchImage.
+- "Gửi yêu cầu" gom toàn bộ thông tin và hiển thị bảng tóm tắt qua MessageBox; "Nhập lại" reset form.
 
 ---
 
 ## KẾT QUẢ THỰC HÀNH
 
-### 1. Ảnh màn hình Giao diện chính
-_Giao diện chính_
+### Ảnh màn hình Giao diện chính
+_Giao diện chính
 
 ![Ảnh màn hình Giao diện chính](./screenshots/main_ui.png)
 
-### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-_Đang chọn vị trí – tạm tính tiền realtime_
-
-![Ảnh màn hình Chức năng thực thi / Kết quả](./screenshots/execution_result.png)
-
-### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-_Bấm vào vị trí đã đặt (đỏ) → thông báo_
-
-![Ảnh màn hình Kiểm tra lỗi (Validation)](./screenshots/validation_error.png)
