@@ -21,5 +21,5 @@
 ### Ảnh màn hình Giao diện chính
 _Giao diện chính
 
-![Ảnh màn hình Giao diện chính](./screenshots/main_ui.png)
+![Ảnh màn hình Giao diện chính](./l1.png)
 
