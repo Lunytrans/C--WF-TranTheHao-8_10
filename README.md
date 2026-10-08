@@ -13,11 +13,11 @@
 
 | Bài | Tên bài | Độ khó | Thư mục |
 |---|---|---|---|
-| 1 | Máy tính tính cước dịch vụ & Giảm giá | Rất dễ | [Bai1_TinhCuocDichVu](./Bai1_TinhCuocDichVu/README.md) |
-| 2 | Form Tiếp nhận & Phân loại sự cố IT | Dễ | [Bai2_PhieuSuCoIT](./Bai2_PhieuSuCoIT/README.md) |
-| 3 | Quản lý danh mục Vật tư / Linh kiện | Trung bình | [Bai3_QuanLyVatTu](./Bai3_QuanLyVatTu/README.md) |
-| 4 | Sơ đồ chọn vị trí / Đặt bàn hẹn giờ | Khá | [Bai4_DatChoNgoi](./Bai4_DatChoNgoi/README.md) |
-| 5 | Bảng điều khiển Quản lý Đơn giao hàng | Phức tạp | [Bai5_QuanLyDonGiaoHang](./Bai5_QuanLyDonGiaoHang/README.md) |
+| 1 | Máy tính tính cước dịch vụ & Giảm giá | Rất dễ | [Bai1_TinhCuocDichVu](./OnTapWinForms/Bai1_TinhCuocDichVu/README.md) |
+| 2 | Form Tiếp nhận & Phân loại sự cố IT | Dễ | [Bai2_PhieuSuCoIT](./OnTapWinForms/Bai2_PhieuSuCoIT/README.md) |
+| 3 | Quản lý danh mục Vật tư / Linh kiện | Trung bình | [Bai3_QuanLyVatTu](./OnTapWinForms/Bai3_QuanLyVatTu/README.md) |
+| 4 | Sơ đồ chọn vị trí / Đặt bàn hẹn giờ | Khá | [Bai4_DatChoNgoi](./OnTapWinForms/Bai4_DatChoNgoi/README.md) |
+| 5 | Bảng điều khiển Quản lý Đơn giao hàng | Phức tạp | [Bai5_QuanLyDonGiaoHang](./OnTapWinForms/Bai5_QuanLyDonGiaoHang/README.md) |
 
 ---
 
